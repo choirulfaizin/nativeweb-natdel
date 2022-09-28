@@ -1,0 +1,123 @@
+/*-----------------------------------------------------------------------------
+
+	-	Revolution Slider 4.1 Captions -
+
+		Screen Stylesheet
+
+version:   	1.4.5
+date:      	27/11/13
+author:		themepunch
+email:     	info@themepunch.com
+website:   	http://www.themepunch.com
+-----------------------------------------------------------------------------*/
+
+
+
+/*************************
+	-	CAPTIONS	-
+**************************/
+
+.tp-hide-revslider,.tp-caption.tp-hidden-caption	{	visibility:hidden !important; display:none !important;}
+
+
+.tp-caption { z-index:1; white-space:nowrap}
+
+.tp-caption-demo .tp-caption	{	position:relative !important; display:inline-block; margin-bottom:10px; margin-right:20px !important;}
+
+
+.tp-caption.whitedivider3px {
+
+	color: #000000;
+	text-shadow: none;
+	background-color: rgb(255, 255, 255);
+	background-color: rgba(255, 255, 255, 1);
+	text-decoration: none;
+	min-width: 408px;
+	min-height: 3px;
+	background-position: initial initial;
+	background-repeat: initial initial;
+	border-width: 0px;
+	border-color: #000000;
+	border-style: none;
+}
+
+
+.tp-caption.finewide_large_white {
+color:#ffffff;
+text-shadow:none;
+font-size:60px;
+line-height:60px;
+font-weight:300;
+font-family:"Open Sans", sans-serif;
+background-color:transparent;
+text-decoration:none;
+text-transform:uppercase;
+letter-spacing:8px;
+border-width:0px;
+border-color:rgb(0, 0, 0);
+border-style:none;
+}
+
+.tp-caption.whitedivider3px {
+color:#000000;
+text-shadow:none;
+background-color:rgb(255, 255, 255);
+background-color:rgba(255, 255, 255, 1);
+text-decoration:none;
+font-size:0px;
+line-height:0;
+min-width:468px;
+min-height:3px;
+border-width:0px;
+border-color:rgb(0, 0, 0);
+border-style:none;
+}
+
+.tp-caption.finewide_medium_white {
+color:#ffffff;
+text-shadow:none;
+font-size:37px;
+line-height:37px;
+font-weight:300;
+font-family:"Open Sans", sans-serif;
+background-color:transparent;
+text-decoration:none;
+text-transform:uppercase;
+letter-spacing:5px;
+border-width:0px;
+border-color:rgb(0, 0, 0);
+border-style:none;
+}
+
+.tp-caption.boldwide_small_white {
+font-size:25px;
+line-height:25px;
+font-weight:800;
+font-family:"Open Sans", sans-serif;
+color:rgb(255, 255, 255);
+text-decoration:none;
+background-color:transparent;
+text-shadow:none;
+text-transform:uppercase;
+letter-spacing:5px;
+border-width:0px;
+border-color:rgb(0, 0, 0);
+border-style:none;
+}
+
+.tp-caption.whitedivider3px_vertical {
+color:#000000;
+text-shadow:none;
+background-color:rgb(255, 255, 255);
+background-color:rgba(255, 255, 255, 1);
+text-decoration:none;
+font-size:0px;
+line-height:0;
+min-width:3px;
+min-height:130px;
+border-width:0px;
+border-color:rgb(0, 0, 0);
+border-style:none;
+}
+
+.tp
