@@ -17,7 +17,7 @@
 								<!-- Logo area -->
 								<div class="logo">
 									<!-- Heading -->
-									<h1>Natdel</h1>
+									<h1>Natdel Web</h1>
 									<!-- Paragraph -->
 									<p>Facility ester expedite instinct.</p>
 								</div>
