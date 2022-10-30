@@ -60,7 +60,7 @@
                     <form name='login' action='login/cek_login.php' method='post'>
                         <div class='body bg-gray'>
                             <div class='form-group'>
-                                <input type='text' name='user' class='form-control' placeholder='User ID' required>
+                                <input type='text' name='user' class='form-control' placeholder='User' required>
                             </div>
                             <div class='form-group'>
                                 <input type='password' name='password' class='form-control' placeholder='Password' id='demo-field' required>
